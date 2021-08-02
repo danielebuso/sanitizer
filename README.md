@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/travis/danielebuso/sanitizer/master.svg?style=flat-square)](https://travis-ci.org/danielebuso/sanitizer)
 [![Total Downloads](https://img.shields.io/packagist/dt/danielebuso/sanitizer.svg?style=flat-square)](https://packagist.org/packages/danielebuso/sanitizer)
 
-Data sanitizer and Laravel 7 form requests with input sanitation
+Data sanitizer and Laravel 7/8 form requests with input sanitation
 
 ## Introduction
 
